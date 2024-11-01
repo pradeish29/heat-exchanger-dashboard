@@ -1,0 +1,6 @@
+/* src/components/TemperatureChart.css */
+.chart-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}

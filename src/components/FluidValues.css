@@ -1,0 +1,38 @@
+.fluid-values {
+    display: flex; /* Use flexbox for alignment */
+    flex-wrap: wrap; /* Allow boxes to wrap onto the next line */
+    justify-content: center; /* Center boxes horizontally */
+    gap: 5px; /* Space between boxes */
+    margin: 5px; /* Outer margin for the fluid values container */
+}
+
+.fluid {
+    padding: 15px; /* Increased padding for better spacing */
+    background-color: #0c3e50; /* Darker shade of teal for background */
+    border-radius: 8px; /* Rounded corners */
+    color: #fff; /* White text for readability */
+    width: 160px; /* Fixed width for each box */
+    height: 100px; /* Fixed height for each box */
+    display: flex; /* Flexbox for easy alignment */
+    flex-direction: column; /* Align items in a column */
+    justify-content: center; /* Center items vertically */
+    align-items: center; /* Center items horizontally */
+    margin: 1px; /* Space between boxes */
+}
+
+h4{
+    text-align: center;
+}
+  
+.fluid-info h4 {
+    margin: 0;
+    font-size: 12px;
+    color: #ecf0f1;
+}
+  
+.fluid-info p {
+    font-size: 14px;
+    margin-top: 5px;
+    color: #ecf0f1;
+    text-align: center;
+}
