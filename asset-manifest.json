@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/heat-exchanger-dashboard/static/css/main.efb914ba.css",
-    "main.js": "/heat-exchanger-dashboard/static/js/main.eb8372b0.js",
+    "main.js": "/heat-exchanger-dashboard/static/js/main.cc836699.js",
     "static/js/453.59b8a61b.chunk.js": "/heat-exchanger-dashboard/static/js/453.59b8a61b.chunk.js",
     "index.html": "/heat-exchanger-dashboard/index.html",
     "main.efb914ba.css.map": "/heat-exchanger-dashboard/static/css/main.efb914ba.css.map",
-    "main.eb8372b0.js.map": "/heat-exchanger-dashboard/static/js/main.eb8372b0.js.map",
+    "main.cc836699.js.map": "/heat-exchanger-dashboard/static/js/main.cc836699.js.map",
     "453.59b8a61b.chunk.js.map": "/heat-exchanger-dashboard/static/js/453.59b8a61b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efb914ba.css",
-    "static/js/main.eb8372b0.js"
+    "static/js/main.cc836699.js"
   ]
 }
